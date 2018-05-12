@@ -1,0 +1,32 @@
+_repo: The-Railway-Builders--A-Chronicle-of-Overland-Highways_30509
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Skelton, Oscar D. (Oscar Douglas)
+    aliases:
+    - Skelton, Oscar Douglas
+    - Skelton, O. D. (Oscar Douglas)
+    birthdate: 1878
+    deathdate: 1941
+    gutenberg_agent_id: '1047'
+    url: http://www.gutenberg.org/2009/agents/1047
+    wikipedia: http://en.wikipedia.org/wiki/Oscar_D._Skelton
+description: ''
+gutenberg_issued: '2009-11-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30509'
+  lccn: '16021238'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Railroads -- Canada -- History'
+- !lcsh 'Pacific railroads'
+- !lcc 'HE'
+title: 'The Railway Builders: A Chronicle of Overland Highways'
+url: http://www.gutenberg.org/ebooks/30509
